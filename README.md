@@ -8,8 +8,11 @@
 - 🔭 Crio publicações regularmente no Instagram @[carol_developer](https://www.instagram.com/carol_developer/)
 
 - 💬 Estudo sobre **JavaScript, HTML, CSS, SQL, React e React Native**
+- 
 ## ⚙️ &nbsp;Informações do meu Git
+
 <br>
+
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&theme=synthwave" alt="carolbarbosa's most languages"/>
 </p>
