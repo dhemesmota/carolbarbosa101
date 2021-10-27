@@ -6,7 +6,7 @@
 - 🔭 Crio publicações regularmente no Instagram @[carol_developer](https://www.instagram.com/carol_developer/)
 
 - 💬 Estudo sobre **JavaScript, HTML, CSS, SQL, React e React Native**
-- 
+
 ## ⚙️ &nbsp;Informações do meu Git
 
 <br>
