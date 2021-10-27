@@ -1,4 +1,4 @@
-<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/carolbarbosa101/d27c61331774bc40b95649f535fa6322/raw/80d5020f085710b00bfa562333827c071bbe1650/githubcard.svg"/>
+<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/carolbarbosa101/d27c61331774bc40b95649f535fa6322/raw/80d5020f085710b00bfa562333827c071bbe1650/githubcard.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou a Caroline</h1>
 <br>
 
@@ -13,7 +13,7 @@
 <br><br>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&theme=synthwave" alt="carolbarbosa's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&theme=synthwave" alt="carolbarbosa's most languages"/>
 </p>
 
 <br><br>
