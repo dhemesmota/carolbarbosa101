@@ -10,7 +10,7 @@
 - 
 ## ⚙️ &nbsp;Informações do meu Git
 
-<br><br>
+<br>
 
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&theme=synthwave" alt="carolbarbosa's most languages"/>
